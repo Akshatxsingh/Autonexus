@@ -1,28 +1,52 @@
 # 🚗 AutoNexus
 
-**AutoNexus** is a Car Showroom Management & Booking System designed to simplify and digitize the operations of a modern car dealership. It allows users to browse available cars, manage inventory, and book vehicles easily via a streamlined interface.
+**AutoNexus** is a Car Showroom Management & Booking System developed to streamline vehicle inventory management and customer bookings for modern dealerships. The platform enables users to browse available vehicles, manage showroom inventory, and make bookings through an intuitive and responsive interface.
 
 ---
 
 ## 📌 Features
 
-- 🔍 Browse and view available car models by brand
-- 📋 Add, update, and remove cars from showroom inventory
-- 🛒 Book cars with real-time availability tracking
-- 🗃️ Maintain records of companies, cars, and customer bookings
-- 🌐 Simple, responsive UI for smooth user experience
-- 💾 Backed by a structured JSON database (MongoDB compatible)
+* 🔍 Browse and search car models by brand and category
+* 🚗 View detailed vehicle information and availability
+* 📋 Add, update, and remove vehicles from showroom inventory
+* 🛒 Book vehicles with real-time availability tracking
+* 🗃️ Manage customer, vehicle, and booking records efficiently
+* 📱 Responsive user interface for seamless access across devices
+* 💾 MongoDB-based data storage for reliable record management
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript 
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB 
-- **Hosting:** Render.com
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Version Control:** Git & GitHub
+* **Deployment:** Render
 
-## Contributors
-- Shreyas Patil
-- Aditya Dube
-# Autonexus
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/Akshatxsingh/Autonexus.git
+cd Autonexus
+npm install
+npm start
+```
+
+---
+
+## 👨‍💻 Author
+
+**Akshat Singh**
+
+* GitHub: https://github.com/Akshatxsingh
+* Email: [5799.akshat@gmail.com](mailto:5799.akshat@gmail.com)
+
+---
+
+## 📄 License
+
+This project is developed for educational and portfolio purposes.
+
